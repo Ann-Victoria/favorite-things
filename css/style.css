@@ -1,0 +1,10 @@
+h1 {
+  color: bisque;
+  font-style: italic;
+  font-size: 175%;
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: antiquewhite;
+  background-color: black;
+}
