@@ -1,10 +1,28 @@
+body {
+   background-image: url(/Images/back.jpg);
+}
+
 h1 {
   color: bisque;
   font-style: italic;
-  font-size: 175%;
+  font-size: 300%;
 }
-p{
+p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: antiquewhite;
-  background-color: black;
+  background-color: grey
+}
+ul {
+  color: aquamarine;
+  font-family: fantasy;
+}
+ol {
+  color: skyblue;
+  font-family: fantasy;
+}
+.columns {
+  margin-left: 50px;  
+}
+.test-box {
+  columns: 2;
 }
